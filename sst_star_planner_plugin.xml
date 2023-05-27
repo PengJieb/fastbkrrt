@@ -1,0 +1,5 @@
+<library path="lib/libsst_star_local_planner">
+  <class name="sst_star_local_planner/SSTStarPlanner" type="sst_star_local_planner::SSTStarPlanner" base_class_type="nav_core::BaseLocalPlanner">
+    <description>This is SST Star Global Planner Plugin by Mystery.</description>
+  </class>
+</library>

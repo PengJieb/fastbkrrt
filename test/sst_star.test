@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+  <test test-name="sst_star" pkg="sst_star_global_planner" type="test_sst_star" />
+</launch>
