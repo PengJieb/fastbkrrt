@@ -212,8 +212,8 @@ bool SSTStarPlanner::makelocalPlan(const geometry_msgs::PoseStamped & current_po
                                                   delta_BN_,
                                                   T_prop_,
                                                   N_,
-												  min_radius_,
-												  max_length_
+                                          min_radius_,
+                                          max_length_
                                                   ));
 //   ROS_INFO("doing path planning");
     std::list<geometry_msgs::PoseStamped> path;

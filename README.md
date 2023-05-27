@@ -1,8 +1,14 @@
-# `sst_local_planner`
+# `FastBKRRT`
 
 
 
-This is a ROS Global Planner Plugin that implements the SST (Stable Sparse RRT) path planning algorithm.
+This is a ROS Global Planner Plugin that implements the FastBKRRT path planning algorithm.
+
+We implement our algorithm based on Stable Sparse RRT (SST) algorithm.
+
+The Stable Sparse RRT (SST) algorithm is also implemented by ourselves.
+
+Therefore, several definitions (package name, node name, class name, etc.) are named SST, but the algorithm is FastBKRRT.
 
 
 ## ROS Distros
