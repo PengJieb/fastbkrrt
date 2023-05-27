@@ -2,7 +2,7 @@
 
 
 
-This is a ROS Global Planner Plugin that implements the FastBKRRT path planning algorithm.
+This is a ROS Local Planner Plugin that implements the FastBKRRT path planning algorithm.
 
 We implement our algorithm based on Stable Sparse RRT (SST) algorithm.
 
